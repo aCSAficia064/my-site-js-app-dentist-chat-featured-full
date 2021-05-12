@@ -1,0 +1,5 @@
+# my-site-js-app-dentist-chat-featured-full
+
+# this app can cause harm to any office incorrectly using this app's data, more is below
+
+yes, this app contains data which can be sensitive and harmful if tampered with, that is why i waited now to publish this particular application. any new data created is therefore sent and received encrypted with 256ssa encryption, read more on wikipedia wiki ssa_256. is this safe to use? yes if youre careful with it. is this really open source? yes, to learn more, read on. why open source? good for collaboration. good for social health to see what apps are doing and to edit it to what you want. it's called a fork on github. you really should learn the software, it's free, it doesn't have tons of bloatware, it's open source, and users can collaborate on anything gihub is hosting, which is, about 200+ million packages, libraries, apps, websites, and more, so you have a ton of resources at your side if you get stuck, need help, or just want to learn something new!!!
